@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kelly 👋
 
-<!--
-**cantr1/cantr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a passion for backend development, Linux systems, and building reliable software.
 
-Here are some ideas to get you started:
+I enjoy designing APIs, automating infrastructure, and learning how systems work from the operating system all the way up to distributed applications. My current focus is becoming a stronger backend engineer through hands-on projects in Go while continuing to deepen my Linux and cloud knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* Building backend services in **Go**
+* Studying **system design** and **data structures & algorithms**
+* Expanding my knowledge of **AWS** and cloud infrastructure
+* Creating portfolio projects that emphasize clean architecture and maintainable code
+
+## 🛠 Technologies
+
+### Languages
+
+* Go
+* Python
+* Bash
+* SQL
+
+### Linux & DevOps
+
+* Linux
+* Docker
+* Git
+* Ansible
+* CI/CD
+* Networking
