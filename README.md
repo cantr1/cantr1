@@ -1,4 +1,4 @@
-# Hi, I'm Kelly 👋
+# Hi, I'm Kelly
 
 Software Engineer with a passion for backend development, Linux systems, and building reliable software.
 
